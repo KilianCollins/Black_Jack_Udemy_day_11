@@ -165,7 +165,7 @@ while should_continue:
         should_continue_q = input("want to continue? y/n: ").lower().strip(" ")
 
         should_continue_q = input("want to continue? y/n: ").lower().strip(" ")
-        print("                                                  ")
+        print("                                                   ")
 
     if should_continue_q == "y":
         user_hand.clear()
